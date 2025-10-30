@@ -5,7 +5,7 @@ import LoginPage from './components/LoginPage.jsx';
 import SignUpPage from './components/SignUpPage.jsx';
 import DashboardPage from './components/DashboardPage.jsx';
 import axios from 'axios';
-import './index.css';
+import './Index.css';
 
 const API_URL = 'https://expense-tracer-backend-34qu.vercel.app'
 
